@@ -6,7 +6,7 @@ const fsPromises = require('fs').promises;
 const logEvents = require('./logEvents');
 const EventEmitter = require('events');
 class Emitter extends EventEmitter { };
-// initialize object 
+// initialize object
 const myEmitter = new Emitter();
 myEmitter.on('log', (msg, fileName) => logEvents(msg, fileName));
 const PORT = process.env.PORT || 3500;
@@ -78,10 +78,12 @@ const server = http.createServer((req, res) => {
     if (!extension && req.url.slice(-1) !== '/') filePath += '.html';
 
     const fileExists = fs.existsSync(filePath);
+    console.log(path.parse(filePath));
 
     if (fileExists) {
         serveFile(filePath, contentType, res);
     } else {
+        
         switch (path.parse(filePath).base) {
             case 'old-page.html':
                 res.writeHead(301, { 'Location': '/new-page.html' });
