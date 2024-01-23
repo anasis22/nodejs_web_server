@@ -1,0 +1,14 @@
+23/01/2024	03:26:49	1cd2d90a-d69b-446f-b85e-f0be00303905	Error: Not Allowed by CORS
+23/01/2024	03:26:56	9112fb9f-b02f-4a84-b9d2-da4cbc8b15bc	Error: Not Allowed by CORS
+23/01/2024	03:33:23	9a6b88f5-d9a4-4700-8a61-ed4d6cb7e4d1	Error: Not Allowed by CORS
+23/01/2024	03:33:58	c339fdef-9e49-4da5-92f9-9e189b5409a7	Error: Not Allowed by CORS
+23/01/2024	03:33:58	f6f226c6-5952-49ea-8b75-0ee6daf2aeaf	Error: Not Allowed by CORS
+23/01/2024	03:34:20	4eb35857-2494-46b5-9249-30b0697c9140	Error: Not Allowed by CORS
+23/01/2024	03:37:01	23306e94-6098-4c0b-86b0-5cdb1b53ac7d	Error: Not Allowed by CORS
+23/01/2024	03:37:02	5deb6156-b8d9-4554-81ef-7cb9d3a67d4e	Error: Not Allowed by CORS
+23/01/2024	03:37:03	7c50dc35-ee94-4325-aea6-d9bd9669f456	Error: Not Allowed by CORS
+23/01/2024	03:41:44	f7d9c023-4b26-49aa-a8c4-80487eaf326d	Error: Not Allowed by CORS
+23/01/2024	03:41:44	f6a8b715-f788-4f9d-8337-33e3e3ed4cc7	Error: Not Allowed by CORS
+23/01/2024	03:49:33	cfe07fb3-cbf5-4486-b7aa-b3077fdda96c	Error: Not Allowed by CORS
+23/01/2024	03:49:33	258665a9-143d-4880-a112-f8b8356227d0	Error: Not Allowed by CORS
+23/01/2024	08:18:22	190dc18b-1cb8-4659-9510-bdfbb38274aa	Error: ENOENT: no such file or directory, stat '/Users/anas/nodeJS-webServer/nodejs_web_server/views/data.json'
